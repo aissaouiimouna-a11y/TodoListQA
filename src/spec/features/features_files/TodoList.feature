@@ -23,3 +23,6 @@ Feature: je souhaite tester la gestion des taches de l application TodoList
     When j ajoute une tache "Tache a supprimer"
     And je supprime la tache
     Then la tache est supprimee du localStorage
+    
+    
+    // Ceci est un commentaire
